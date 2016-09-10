@@ -11,7 +11,7 @@ Tags: wpsso, place, location, venue, longitude, latitude, address, local, busine
 Contributors: jsmoriss
 Requires At Least: 3.1
 Tested Up To: 4.6
-Stable Tag: 2.1.0-1
+Stable Tag: 2.1.1-1
 
 WPSSO extension to provide Pinterest Place, Facebook / Open Graph Location, Schema Local Business + Local SEO meta tags.
 
@@ -157,26 +157,9 @@ Official announcement: N/A
 * *Developer Notes*
 	* Updated the SucomNotice method calls for WPSSO v3.35.0-1.
 
-**Version 2.1.0-1 (2016/08/18)**
-
-Official announcement: N/A
-
-* *New Features*
-	* Added a new "Service Radius" option for Schema Local Business.
-* *Improvements*
-	* None
-* *Bugfixes*
-	* None
-* *Developer Notes*
-	* None
-
 == Upgrade Notice ==
 
 = 2.1.1-1 =
 
 (2016/09/10) Updated the SucomNotice method calls for WPSSO v3.35.0-1.
-
-= 2.1.0-1 =
-
-(2016/08/18) Added a new "Service Radius" option for Schema Local Business.
 
